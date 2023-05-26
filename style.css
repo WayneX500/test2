@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: rgb(205, 55, 29);
+    color:white
+}
+
+header{
+    text-align: center;
+    background-color: tomato;
+    color: white;
+}
+h1{
+    margin: 0;
+    padding: 20px;
+}
+img {
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+}
+main, footer {
+    padding: 0 25px;
+}
+.highlight {
+    font-family: sans-serif;
+    background-color: yellow;
+    color: black;
+}
